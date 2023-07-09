@@ -1,12 +1,2 @@
-# Ignore .env file
-.env
-
-# Ignore Git related files and folders
-.git
-.gitignore
-
-# Ignore node_modules directory
 node_modules
-
-# Ignore npm debug log file
 npm-debug.log
